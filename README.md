@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Tópicos em Ciêncas - Módulo Astronomia   
 
-You can use the [editor on GitHub](https://github.com/walterwsmf/BCMT/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este website cobre o Módulo de Astronomia da turma B do curso de Tópicos em Ciências do curso de Bacharelado em Ciências da Matemática e da Terra.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+___
 
-### Markdown
+## Datas Relevantes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Início do Módulo: 21 de setembro de 2018
 
-```markdown
-Syntax highlighted code block
+ - Fim do Módulo: 26 de outubro de 2018
 
-# Header 1
-## Header 2
-### Header 3
+ - Prova do Módulo de Astronomia: 26 de outubro de 2018
 
-- Bulleted
-- List
+ - Semana SIAC/UFRJ - sem aulas, dias 17 e 19 de outubro de 2018
 
-1. Numbered
-2. List
+ - Feriados - sem aulas, dias 12 e 15 de outubro
 
-**Bold** and _Italic_ and `Code` text
+___
 
-[Link](url) and ![Image](src)
-```
+## Aulas
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Aula 01 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
 
-### Jekyll Themes
+youtube: Escalas do Universo
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/walterwsmf/BCMT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![Escalas do Universo em 3D](./images/aula1.png)](https://www.youtube.com/watch?v=i93Z7zljQ7I "Escalas do Universo em 3D") 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Material Adicional: [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)

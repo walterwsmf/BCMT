@@ -28,6 +28,8 @@ youtube: Escalas do Universo
 
 [![Escalas de Tamanhos](./images/aula1.1.png)](https://www.youtube.com/watch?v=5AAR7bNSM_s "Escalas de Tamanhos") 
 
+___
+
 ## Material Adicional: 
 
 - [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)

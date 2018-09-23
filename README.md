@@ -26,4 +26,8 @@ youtube: Escalas do Universo
 
 [![Escalas do Universo em 3D](./images/aula1.png)](https://www.youtube.com/watch?v=i93Z7zljQ7I "Escalas do Universo em 3D") 
 
-Material Adicional: [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)
+[![Escalas de Tamanhos](./images/aula1.1.png)](https://www.youtube.com/watch?v=5AAR7bNSM_s "Escalas de Tamanhos") 
+
+## Material Adicional: 
+
+- [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)

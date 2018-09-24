@@ -68,6 +68,8 @@ ___
 
 - [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)
 
+- [Como os gregos calcularam o tamanho da Terra - Reportagem da Revista Superinteressante](https://super.abril.com.br/mundo-estranho/como-os-gregos-calcularam-a-circunferencia-da-terra-ha-2200-anos/)
+
 - [Sol da Meia-Noite - em inglês](https://www.scienceabc.com/pure-sciences/midnight-sun-what-is-it-and-why-does-it-occur.html)
 
 ___

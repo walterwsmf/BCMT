@@ -72,8 +72,6 @@ ___
 
 - Astrotubers (pt-br)
 
-Grupo de pós-graduandos em astronomia no Brasil que conversam de forma acessível o conhecimento astronômico, divulgando-o online (Videos, threds etc).
-
 [YouTube](https://www.youtube.com/channel/UCGYBY4KaFYmkEKAGLL07BXw) -- [Twitter](https://twitter.com/astrotubers) -- [Facebook](https://www.facebook.com/AstroTubers/) -- [Instagram](https://www.instagram.com/astrotubers/)
 
 - Museu de Astronomia e Ciências Afins - MAST

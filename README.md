@@ -22,6 +22,28 @@ ___
 
 - Aula 01 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
 
+- Aula 02 - [Coordenadas e Movimento dos Astros](./lectures/aula4_Movimento_Terra.pdf)
+
+- Aula 03 - [O Sol, a Lua e a Terra: Eclipses]()
+
+- Aula 04 - [Atividade Solar e Formação da Lua]()
+
+- Aula 05 - [Propriedades do Sistema Solar]()
+
+- Aula 06 - [Asteroides e Cometas]()
+
+- Aula 07 - [Planetas Extrassolares, Vida e o Projeto SETI]()
+
+- Aula 08 - [Radiação]()
+
+- Aula 09 - [Estrelas e Evolução Estelar]()
+
+- Aula 10 - [A Via Láctea]()
+
+- Aula 11 - [Gaáxias e Classificação de Hubble]()
+
+- Aula 12 - [Prova]()
+
 ___
 
 ## Guia de Estudo/Lista de Exercícios
@@ -41,3 +63,5 @@ ___
 ## Material Adicional: 
 
 - [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)
+
+- [Sol da Meia-Noite - em inglês](https://www.scienceabc.com/pure-sciences/midnight-sun-what-is-it-and-why-does-it-occur.html)

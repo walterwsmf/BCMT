@@ -34,7 +34,7 @@ ___
 
 - Aula 07 - [Planetas Extrassolares, Vida e o Projeto SETI (sem arquivo)]()
 
-- Aula 08 - [Radiação (sem arquivo)]()
+- Aula 08 - [Radiação Eletromagnética (sem arquivo)]()
 
 - Aula 09 - [Estrelas e Evolução Estelar (sem arquivo)]()
 

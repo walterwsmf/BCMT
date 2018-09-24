@@ -22,7 +22,9 @@ ___
 
 - Aula 01 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
 
-- Aula 02 - [Coordenadas e Movimento dos Astros](./lectures/aula4_Movimento_Terra.pdf)
+- Aula 02 - [Coordenadas e Movimento dos Astros (sem arquivo)]()
+
+<!-- (./lectures/aula4_Movimento_Terra.pdf) -->
 
 - Aula 03 - [O Sol, a Lua e a Terra: Eclipses (sem arquivo)]()
 

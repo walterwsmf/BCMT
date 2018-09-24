@@ -24,25 +24,25 @@ ___
 
 - Aula 02 - [Coordenadas e Movimento dos Astros](./lectures/aula4_Movimento_Terra.pdf)
 
-- Aula 03 - [O Sol, a Lua e a Terra: Eclipses]()
+- Aula 03 - [O Sol, a Lua e a Terra: Eclipses (sem arquivo)]()
 
-- Aula 04 - [Atividade Solar e Formação da Lua]()
+- Aula 04 - [Atividade Solar e Formação da Lua (sem arquivo)]()
 
-- Aula 05 - [Propriedades do Sistema Solar]()
+- Aula 05 - [Propriedades do Sistema Solar (sem arquivo)]()
 
-- Aula 06 - [Asteroides e Cometas]()
+- Aula 06 - [Asteroides e Cometas (sem arquivo)]()
 
-- Aula 07 - [Planetas Extrassolares, Vida e o Projeto SETI]()
+- Aula 07 - [Planetas Extrassolares, Vida e o Projeto SETI (sem arquivo)]()
 
-- Aula 08 - [Radiação]()
+- Aula 08 - [Radiação (sem arquivo)]()
 
-- Aula 09 - [Estrelas e Evolução Estelar]()
+- Aula 09 - [Estrelas e Evolução Estelar (sem arquivo)]()
 
-- Aula 10 - [A Via Láctea]()
+- Aula 10 - [A Via Láctea (sem arquivo)]()
 
-- Aula 11 - [Gaáxias e Classificação de Hubble]()
+- Aula 11 - [Gaáxias e Classificação de Hubble (sem arquivo)]()
 
-- Aula 12 - [Prova]()
+- Aula 12 - [Prova (sem arquivo)]()
 
 ___
 

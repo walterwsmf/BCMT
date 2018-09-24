@@ -20,31 +20,31 @@ ___
 
 ## Aulas
 
-- Aula 01 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
+- Aula 01 - 21/09 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
 
-- Aula 02 - [Coordenadas e Movimento dos Astros (sem arquivo)]()
+- Aula 02 - 24/09 - [Coordenadas e Movimento dos Astros (sem arquivo)]()
 
 <!-- (./lectures/aula4_Movimento_Terra.pdf) -->
 
-- Aula 03 - [O Sol, a Lua e a Terra: Eclipses (sem arquivo)]()
+- Aula 03 - 26/09 - [O Sol, a Lua e a Terra: Eclipses (sem arquivo)]()
 
-- Aula 04 - [Atividade Solar e Formação da Lua (sem arquivo)]()
+- Aula 04 - 28/09 - [Atividade Solar e Formação da Lua (sem arquivo)]()
 
-- Aula 05 - [Propriedades do Sistema Solar (sem arquivo)]()
+- Aula 05 - 01/10 - [Propriedades do Sistema Solar (sem arquivo)]()
 
-- Aula 06 - [Asteroides e Cometas (sem arquivo)]()
+- Aula 06 - 03/10 - [Asteroides e Cometas (sem arquivo)]()
 
-- Aula 07 - [Planetas Extrassolares, Vida e o Projeto SETI (sem arquivo)]()
+- Aula 07 - 05/10 - [Planetas Extrassolares, Vida e o Projeto SETI (sem arquivo)]()
 
-- Aula 08 - [Radiação Eletromagnética (sem arquivo)]()
+- Aula 08 - 08/10 - [Radiação Eletromagnética (sem arquivo)]()
 
-- Aula 09 - [Estrelas e Evolução Estelar (sem arquivo)]()
+- Aula 09 - 10/10 - [Estrelas e Evolução Estelar (sem arquivo)]()
 
-- Aula 10 - [A Via Láctea (sem arquivo)]()
+- Aula 10 - 22/10 - [A Via Láctea (sem arquivo)]()
 
-- Aula 11 - [Galáxias e Classificação de Hubble (sem arquivo)]()
+- Aula 11 - 24/10 - [Galáxias e Classificação de Hubble (sem arquivo)]()
 
-- Aula 12 - [Prova (sem arquivo)]()
+- Aula 12 - 26/10 - [Prova (sem arquivo)]()
 
 ___
 

@@ -40,7 +40,7 @@ ___
 
 - Aula 10 - [A Via Láctea (sem arquivo)]()
 
-- Aula 11 - [Gaáxias e Classificação de Hubble (sem arquivo)]()
+- Aula 11 - [Galáxias e Classificação de Hubble (sem arquivo)]()
 
 - Aula 12 - [Prova (sem arquivo)]()
 

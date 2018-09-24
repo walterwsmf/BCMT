@@ -68,13 +68,17 @@ ___
 
 ___
 
-## Projetos e Instituições Brasileiras
+## Projetos online
 
-- Astrotubers (pt-br)
+- Astrotubers (pt-br) - canal no YouTube
 
 [YouTube](https://www.youtube.com/channel/UCGYBY4KaFYmkEKAGLL07BXw) -- [Twitter](https://twitter.com/astrotubers) -- [Facebook](https://www.facebook.com/AstroTubers/) -- [Instagram](https://www.instagram.com/astrotubers/)
 
-- Museu de Astronomia e Ciências Afins - MAST
+___
+
+## Instituições Brasileiras de Astronomia no Rio de Janeiro
+
+- Museu de Astronomia e Ciências Afins - MAST (Rio de Janeiro/RJ)
 
 [website](http://mast.br/pt-br/) -- [Twitter](https://twitter.com/MuseuAstronomia) -- [Facebook](https://www.facebook.com/museuastronomia/) -- [Instagram](https://www.instagram.com/museudeastronomia/)
 
@@ -89,3 +93,7 @@ ___
 - Observatório do Valongo/UFRJ
 
 [website](http://www.ov.ufrj.br) -- [Twitter](https://twitter.com/ValongoUFRJ) -- [Facebook](https://www.facebook.com/ValongoUFRJ/) -- [Instagram](https://www.instagram.com/valongoufrj/)
+
+- Planetário da Gávea (Rio de Janeiro/RJ)
+
+[website]() -- [Twitter]() -- [Facebook]() -- [Instagram]() -- [YouTube]()

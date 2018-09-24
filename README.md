@@ -65,3 +65,29 @@ ___
 - [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)
 
 - [Sol da Meia-Noite - em inglês](https://www.scienceabc.com/pure-sciences/midnight-sun-what-is-it-and-why-does-it-occur.html)
+
+___
+
+## Projetos e Instituições Brasileiras
+
+- Astrotubers (pt-br)
+
+Grupo de pós-graduandos em astronomia no Brasil que conversam de forma acessível o conhecimento astronômico, divulgando-o online (Videos, threds etc).
+
+[YouTube](https://www.youtube.com/channel/UCGYBY4KaFYmkEKAGLL07BXw) -- [Twitter](https://twitter.com/astrotubers) -- [Facebook](https://www.facebook.com/AstroTubers/) -- [Instagram](https://www.instagram.com/astrotubers/)
+
+- Museu de Astronomia e Ciências Afins - MAST
+
+[website](http://mast.br/pt-br/) -- [Twitter](https://twitter.com/MuseuAstronomia) -- [Facebook](https://www.facebook.com/museuastronomia/) -- [Instagram](https://www.instagram.com/museudeastronomia/)
+
+- Museu Ciência e Vida (Duque de Caxias/RJ)
+
+[website](http://www.museucienciaevida.com.br/) -- [Twitter](https://twitter.com/muscienciaevida) -- [Facebook](https://www.facebook.com/museucienciaevida) -- [Instagram](https://www.instagram.com/museucienciaevida/) -- [YouTube](https://www.youtube.com/channel/UCdzjlZMZafNlcAhq_Tz0jYg)
+
+- Observatório Nacional (Rio de Janeiro/RJ)
+
+[website](http://on.br/index.php/pt-br/) -- [Twitter](https://twitter.com/ON_MCTIC) -- [Facebook](https://www.facebook.com/observatorionacional) -- [Instagram](https://www.instagram.com/observatorionacional/) -- [YouTube](https://www.youtube.com/user/observatorionacional)
+
+- Observatório do Valongo/UFRJ
+
+[website](http://www.ov.ufrj.br) -- [Twitter](https://twitter.com/ValongoUFRJ) -- [Facebook](https://www.facebook.com/ValongoUFRJ/) -- [Instagram](https://www.instagram.com/valongoufrj/)

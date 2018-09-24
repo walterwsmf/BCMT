@@ -20,7 +20,7 @@ ___
 
 ## Aulas
 
-O material (slides) utilizado em sala de aula foram preparados pela prof. Dra. Silvia Lorenz-Martins (OV/UFRJ). Ela compila todo conteúdo necessário para disciplina com informações adicionais.
+O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silvia Lorenz-Martins (OV/UFRJ). Ela compila todo o conteúdo necessário para a disciplina de Tópicos com informações adicionais.
 
 - Aula 01 - 21/09 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
 

@@ -20,6 +20,8 @@ ___
 
 ## Aulas
 
+O material (slides) utilizados em sala de aula foram preparados pela prof. Dra. Silvia Lorenz-Martins (OV/UFRJ). Ela compila todo conteúdo necessário para disciplina com informações adicionais.
+
 - Aula 01 - 21/09 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
 
 - Aula 02 - 24/09 - [Coordenadas e Movimento dos Astros (sem arquivo)]()

@@ -1,4 +1,4 @@
-# Tópicos em Ciêncas - Módulo Astronomia   
+# Tópicos em Ciências - Módulo Astronomia   
 
 Este website cobre o Módulo de Astronomia da turma B do curso de Tópicos em Ciências do curso de Bacharelado em Ciências da Matemática e da Terra, em 2018B.
 

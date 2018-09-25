@@ -103,3 +103,10 @@ ___
 - Planetário da Gávea (Rio de Janeiro/RJ)
 
 [website](http://www.planetariodorio.com.br/) -- [Twitter](https://twitter.com/planetariodorio) -- [Facebook](https://www.facebook.com/planetariodorio) -- [Instagram](https://www.instagram.com/planetariodorio/) -- [YouTube](https://www.youtube.com/channel/UCR39LWTg5jw3Ibwk8Vp_LVA)
+
+___
+
+## Softwares
+
+- [Stellarium (Windows/Mac/Linux/iOS/Android)](https://stellarium.org/pt/)
+

@@ -58,7 +58,10 @@ ___
 [![Escalas do Universo em 3D](./images/aula1.png)](https://www.youtube.com/watch?v=i93Z7zljQ7I "Escalas do Universo em 3D") 
 
 - Video 2: Escalas de Tamanhos
-[![Escalas de Tamanhos](./images/aula1.1.png)](https://www.youtube.com/watch?v=5AAR7bNSM_s "Escalas de Tamanhos") 
+[![Escalas de Tamanhos](./images/aula00.png)](https://www.youtube.com/watch?v=5AAR7bNSM_s "Escalas de Tamanhos") 
+
+- Video 3: Movimento da Terra: Precessão
+[![Precessao](./images/aula02.png)](https://youtu.be/fVvh062JAwk "Precessao") 
 
 ___
 

@@ -24,9 +24,7 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 01 - 21/09 - [Introdução](./lectures/aula1carreira.pdf) -- [Escalas de Tamanho](./lectures/aula2_Escalas.pdf) 
 
-- Aula 02 - 24/09 - [Coordenadas e Movimento dos Astros (sem arquivo)]()
-
-<!-- (./lectures/aula4_Movimento_Terra.pdf) -->
+- Aula 02 - 24/09 - [Coordenadas e Movimento dos Astros](./lectures/aula4_Movimento_Terra.pdf)
 
 - Aula 03 - 26/09 - [O Sol, a Lua e a Terra: Eclipses (sem arquivo)]()
 

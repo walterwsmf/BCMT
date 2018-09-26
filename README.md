@@ -48,6 +48,14 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 ___
 
+## Monitoria
+
+A monitora Stephanie Mortera estará ajudando a turma B de Tópicos todas às segundas de 15-17h, e às quintas de 12-13h.
+
+Ela combinou de caso ninguém apareça até 16:15 nas segundas, ela iria embora. Ela também irá ajudar no guia de estudo/listas.
+
+___
+
 ## Guia de Estudo/Lista de Exercícios
 
 ___

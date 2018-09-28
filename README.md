@@ -58,6 +58,16 @@ ___
 
 ## Guia de Estudo/Lista de Exercícios
 
+As listas foram desenvolvidas pelos monitores Stephanie Mortera e Antonio Queiroz, cobrindo conteúdo apresentado nos slides, auxíliados pela Dra. Silvia Lorenz-Martins.
+
+- [Lista 01. Escalas de Tamanho](./lista/01. Escalas de tamanho lista.pdf)
+
+- [Lista 02. Movimento dos Astros](./lista/02. Movimentos dos astros lista.pdf)
+
+- [Lista 03. Terra, Sol e Lua: Eclipses e Marés](,/lista/03. Terra, Sol, Lua lista.pdf)
+
+- [Lista 04. Atividade Solar](./lista/04. Atividade solar lista.pdf)
+
 ___
 
 ## Material Adicional: 

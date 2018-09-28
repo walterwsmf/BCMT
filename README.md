@@ -26,7 +26,7 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 02 - 24/09 - [Coordenadas e Movimento dos Astros](./lectures/aula4_Movimento_Terra.pdf)
 
-- Aula 03 - 26/09 - [O Sol, a Lua e a Terra: Eclipses (sem arquivo)]()
+- Aula 03 - 26/09 - [O Sol, a Lua e a Terra: Eclipses e Marés](./lectures/aula5_Lua_Eclipses.pdf)
 
 - Aula 04 - 28/09 - [Atividade Solar e Formação da Lua (sem arquivo)]()
 

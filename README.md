@@ -128,3 +128,6 @@ ___
 
 - Video 3: Movimento da Terra: Precessão
 [![Precessao](./images/aula02.png)](https://youtu.be/fVvh062JAwk "Precessao") 
+
+- Video 4: Eclipse Solar - National Geographic Channel
+[![Eclipse](./images/aula03.png)](https://youtu.be/cxrLRbkOwKs "Eclipse") 

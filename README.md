@@ -28,7 +28,7 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 03 - 26/09 - [O Sol, a Lua e a Terra: Eclipses e Marés](./lectures/aula5_Lua_Eclipses.pdf)
 
-- Aula 04 - 28/09 - [Atividade Solar e Formação da Lua (sem arquivo)]()
+- Aula 04 - 28/09 - [Atividade Solar e Formação da Lua](./lectures/aula6_Sol.pdf)
 
 - Aula 05 - 01/10 - [Propriedades do Sistema Solar (sem arquivo)]()
 

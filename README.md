@@ -64,7 +64,7 @@ As listas foram desenvolvidas pelos monitores Stephanie Mortera e Antonio Queiro
 
 - [Lista 02. Movimento dos Astros](./lista/02. Movimentos dos astros lista.pdf)
 
-- [Lista 03. Terra, Sol e Lua: Eclipses e Marés](,/lista/03. Terra, Sol, Lua lista.pdf)
+- [Lista 03. Terra, Sol e Lua: Eclipses e Marés](./lista/03. Terra, Sol, Lua lista.pdf)
 
 - [Lista 04. Atividade Solar](./lista/04. Atividade solar lista.pdf)
 

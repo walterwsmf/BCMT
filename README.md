@@ -70,6 +70,17 @@ As listas foram desenvolvidas pelos monitores Stephanie Mortera e Antonio Queiro
 
 ___
 
+## Livros e Fontes Recomendadas
+
+- [Astronomia e Astrofísica, livro PDF, UFRGS](http://astro.if.ufrgs.br/livro.pdf)
+
+A disciplina cobre os capítulos 1, 2, 3, 4, 7, 8, 14, 15, 16, 18. Os capítulos acima do 18 possui algumas informações, mas acredito que seja melhor utilizá-lo somente para busca rápida.
+
+- Wikipedia em Inglês sobre os tópicos em astronomia está e é mantida muito bem completa. Quase não possui erros e quando ocorre, normalmente é rapidamente corrigido.
+
+
+___
+
 ## Material Adicional: 
 
 - [Exploração Espacial](./lectures/aula3_Exploracao_Espacial.pdf)

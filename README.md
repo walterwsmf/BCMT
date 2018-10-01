@@ -30,7 +30,7 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 04 - 28/09 - [Atividade Solar e Formação da Lua](./lectures/aula6_Sol.pdf)
 
-- Aula 05 - 01/10 - [Propriedades do Sistema Solar (sem arquivo)]()
+- Aula 05 - 01/10 - [Propriedades do Sistema Solar](./lectures/aula7_SS.pdf)
 
 - Aula 06 - 03/10 - [Asteroides e Cometas (sem arquivo)]()
 
@@ -67,6 +67,20 @@ As listas foram desenvolvidas pelos monitores Stephanie Mortera e Antonio Queiro
 - [Lista 03. Terra, Sol e Lua: Eclipses e Marés](./lista/03. Terra, Sol, Lua lista.pdf)
 
 - [Lista 04. Atividade Solar](./lista/04. Atividade solar lista.pdf)
+
+- [Lista 05. Sistema Solar](./lista/05. Sistema Solar lista.pdf)
+
+- [Lista 06. Asteroides e Cometas](./lista/06. Asteroides e cometas lista.pdf)
+
+- [Lista 07. Planetas Extrassolares](./lista/07. Planetas extrassolares lista.pdf)
+
+- [Lista 08. Radiação Eletromagnética](./lista/)
+
+- [Lista 09. Evolução Estelar](./lista/)
+
+- [Lista 10. Via-Láctea](./lista/)
+
+- [Lista 11. Galáxias](./lista/)
 
 ___
 
@@ -144,3 +158,4 @@ ___
 
 - Video 4: Eclipse Solar - National Geographic Channel
 [![Eclipse](./images/aula03.png)](https://youtu.be/cxrLRbkOwKs "Eclipse") 
+

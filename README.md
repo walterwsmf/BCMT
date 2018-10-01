@@ -74,13 +74,13 @@ As listas foram desenvolvidas pelos monitores Stephanie Mortera e Antonio Queiro
 
 - [Lista 07. Planetas Extrassolares](./lista/07. Planetas extrassolares lista.pdf)
 
-- [Lista 08. Radiação Eletromagnética](./lista/)
+- [Lista 08. Radiação Eletromagnética (sem arquivo)](./lista/)
 
-- [Lista 09. Evolução Estelar](./lista/)
+- [Lista 09. Evolução Estelar (sem arquivo)](./lista/)
 
-- [Lista 10. Via-Láctea](./lista/)
+- [Lista 10. Via-Láctea (sem arquivo)](./lista/)
 
-- [Lista 11. Galáxias](./lista/)
+- [Lista 11. Galáxias (sem arquivo)](./lista/)
 
 ___
 

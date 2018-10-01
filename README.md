@@ -89,6 +89,8 @@ ___
 
 - [Sol da Meia-Noite - em inglês](https://www.scienceabc.com/pure-sciences/midnight-sun-what-is-it-and-why-does-it-occur.html)
 
+- [Temperatura no Sistema Solar - NASA](https://solarsystem.nasa.gov/resources/681/solar-system-temperatures/)
+
 ___
 
 ## Projetos online

@@ -32,19 +32,19 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 05 - 01/10 - [Propriedades do Sistema Solar](./lectures/aula7_SS.pdf)
 
-- Aula 06 - 03/10 - [Asteroides e Cometas (sem arquivo)]()
+- Aula 06 - 03/10 - [Asteroides e Cometas](./lectures/aula8_Asteroides.pdf)
 
-- Aula 07 - 05/10 - [Planetas Extrassolares, Vida e o Projeto SETI (sem arquivo)]()
+- Aula 07 - 08/10 - [Planetas Extrassolares, Vida e o Projeto SETI](./lectures/aula9_P.Extrassolares.pdf)
 
-- Aula 08 - 08/10 - [Radiação Eletromagnética (sem arquivo)]()
+- Aula 08 - 10/10 - [Radiação Eletromagnética](./lectures/aula10_Radiacao.pdf)
 
-- Aula 09 - 10/10 - [Estrelas e Evolução Estelar (sem arquivo)]()
+- Aula 09 - 22/10 - [Estrelas e Evolução Estelar (sem arquivo)]()
 
-- Aula 10 - 22/10 - [A Via Láctea (sem arquivo)]()
+- Aula 10 - 24/10 - [A Via Láctea (sem arquivo)]()
 
-- Aula 11 - 24/10 - [Galáxias e Classificação de Hubble (sem arquivo)]()
+- Aula 11 - 26/10 - [Prova (sem arquivo)]()
 
-- Aula 12 - 26/10 - [Prova (sem arquivo)]()
+- Aula 12 - 26/10 - [Galáxias e Classificação de Hubble (sem arquivo)]()
 
 ___
 
@@ -74,7 +74,7 @@ As listas foram desenvolvidas pelos monitores Stephanie Mortera e Antonio Queiro
 
 - [Lista 07. Planetas Extrassolares](./lista/07. Planetas extrassolares lista.pdf)
 
-- [Lista 08. Radiação Eletromagnética (sem arquivo)](./lista/)
+- [Lista 08. Radiação Eletromagnética](./lista/08. Radiação eletromagenética lista.pdf)
 
 - [Lista 09. Evolução Estelar (sem arquivo)](./lista/)
 

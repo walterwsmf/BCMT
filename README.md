@@ -44,7 +44,7 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 11 - 26/10 - [Prova (sem arquivo)]()
 
-- Aula 12 - 26/10 - [Galáxias e Classificação de Hubble (sem arquivo)]()
+- Aula 12 - 29/10 - [Galáxias e Classificação de Hubble (sem arquivo)]()
 
 ___
 

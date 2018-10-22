@@ -38,7 +38,7 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 08 - 10/10 - [Radiação Eletromagnética](./lectures/aula10_Radiacao.pdf)
 
-- Aula 09 - 22/10 - [Estrelas e Evolução Estelar (sem arquivo)]()
+- Aula 09 - 22/10 - [Estrelas e Evolução Estelar](./lectures/aula11_Evolucao.pdf)
 
 - Aula 10 - 24/10 - [A Via Láctea (sem arquivo)]()
 
@@ -76,11 +76,11 @@ As listas foram desenvolvidas pelos monitores Stephanie Mortera e Antonio Queiro
 
 - [Lista 08. Radiação Eletromagnética](./lista/08. Radiação eletromagenética lista.pdf)
 
-- [Lista 09. Evolução Estelar (sem arquivo)](./lista/)
+- [Lista 09. Evolução Estelar](./lista/09. Estrelas lista.pdf)
 
-- [Lista 10. Via-Láctea (sem arquivo)](./lista/)
+- [Lista 10. Via-Láctea](./lista/11. Galáxias lista.pdf)
 
-- [Lista 11. Galáxias (sem arquivo)](./lista/)
+- [Lista 11. Galáxias](./lista/10. Via láctea lista.pdf)
 
 ___
 

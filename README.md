@@ -40,11 +40,11 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 09 - 22/10 - [Estrelas e Evolução Estelar](./lectures/aula11_Evolucao.pdf)
 
-- Aula 10 - 24/10 - [A Via Láctea (sem arquivo)]()
+- Aula 10 - 24/10 - [A Via Láctea](./lectures/aula12_Via_Lactea.pdf)
+
+- Aula 12 - [Galáxias e Classificação de Hubble](./lectures/aula13_Galaxias.pdf)
 
 - Aula 11 - 26/10 - [Prova (sem arquivo)]()
-
-- Aula 12 - 29/10 - [Galáxias e Classificação de Hubble (sem arquivo)]()
 
 ___
 

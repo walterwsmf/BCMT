@@ -44,7 +44,13 @@ O material (slides) utilizado em sala de aula foi preparado pela prof. Dra. Silv
 
 - Aula 12 - [Galáxias e Classificação de Hubble](./lectures/aula13_Galaxias.pdf)
 
-- Aula 11 - 26/10 - [Prova (sem arquivo)]()
+___
+
+## Prova: Módulo Astronomia
+
+- Aula 11 - 26/10 - [Prova- GABARITO](./PROVA/GABARITO_ASTRONOMIA.pdf) 
+
+- [NOTAS DA TURMA](./PROVA/Notas_BCMT_Topicos_TurmaB.pdf)
 
 ___
 
